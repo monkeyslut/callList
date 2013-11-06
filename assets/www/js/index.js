@@ -16,7 +16,6 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-<<<<<<< HEAD
 /*
  var app = {
     // Application Constructor
@@ -133,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		return false;
 	}, false);
 	});
-=======
+
 var app = {
     // Application Constructor
     initialize: function() {
@@ -165,4 +164,4 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
->>>>>>> 1fae2f931b4320f586e482d52d9616e02ec10e38
+
