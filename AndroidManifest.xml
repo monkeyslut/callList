@@ -18,7 +18,11 @@
        under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:windowSoftInputMode="adjustPan"
+<<<<<<< HEAD
       package="biz.noip.monkeyslut.callList" android:versionName="1.0" android:versionCode="1" android:hardwareAccelerated="true">
+=======
+      package="biz.noip.monkeyslut.CallList" android:versionName="1.0" android:versionCode="1" android:hardwareAccelerated="true">
+>>>>>>> 1fae2f931b4320f586e482d52d9616e02ec10e38
     <supports-screens
         android:largeScreens="true"
         android:normalScreens="true"

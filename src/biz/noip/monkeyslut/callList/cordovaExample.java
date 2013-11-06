@@ -17,7 +17,7 @@
        under the License.
  */
 
-package biz.noip.monkeyslut.callList;
+package biz.noip.monkeyslut.CallList;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
